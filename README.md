@@ -89,6 +89,6 @@ Unlike traditional agencies that trap you in infinite maintenance fees, we speci
 Have a project in mind or need enterprise software built with zero ongoing SaaS taxes?
 
 [![Hire Us](https://img.shields.io/badge/🚀_Book_A_Project_Sprint-00F0FF?style=for-the-badge&logoColor=black)](https://qorvantas.vercel.app/)
-[![Email Us](https://img.shields.io/badge/✉️_Direct_Inquiry-aksir648@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qorvanta.services@gmail.com)
+[![Email Us](https://img.shields.io/badge/✉️_Direct_Inquiry-qorvanta.services@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qorvanta.services@gmail.com)
 
 </div>
