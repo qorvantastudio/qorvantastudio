@@ -1,3 +1,12 @@
+<!-- 🚀 TOP HERO BANNER -->
+<div align="center">
+  <img src="banner.png" alt="Qorvanta Technologies Banner" width="100%" style="border-radius: 10px; max-width: 900px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+</div>
+
+<br/>
+
+
+
 <div align="center">
 
 # ⚡ QORVANTA STUDIO
